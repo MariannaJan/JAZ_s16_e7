@@ -33,7 +33,7 @@
 		</div>
 		<div class="form-group">
 		<label>Last Name <input class="form-control" type="text" data-bind="value: lastName"/></label>
-		</div><div class="form-group"></div>
+		</div><div class="form-group">
 		<div class="form-group">
 		<label>Email <input class="form-control" type="text" data-bind="value: email"/></label>
 		</div><div class="form-group">
